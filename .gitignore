@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -9,28 +7,80 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+jspm_packages/
+.yarn-integrity
 
 # testing
 /coverage
+.nyc_output
+/cypress/screenshots
+/cypress/videos
+/playwright-report
+/test-results
 
-# next.js
+# build output
 /.next/
 /out/
-
-# production
 /build
+/dist
+/output
+/.output
+/.turbo
+/storybook-static
+.nuxt
+.vuepress/dist
+.serverless/
 
-# misc
+# cache and temporary files
+.cache
+.temp
+tmp/
+temp/
+*.tmp
+*.bak
 .DS_Store
 *.pem
+Thumbs.db
+.npm
+.parcel-cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.fusebox/
+web_modules/    # Snowpack dependency directory
+.svelte-kit
 
 # debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
+debug.log
 
-# env files (can opt-in for committing if needed)
-.env*
+# local env files
+.env
+.env.*
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# IDE and editor files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+.history/
 
 # vercel
 .vercel
@@ -38,3 +88,74 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated files
+*.generated.*
+/generated
+/src/generated
+**/*.generated.ts
+**/*.generated.tsx
+
+# build artifacts
+*.log
+*.cache
+.cache/
+.eslintcache
+.stylelintcache
+.rollup.cache
+tsconfig.tsbuildinfo
+
+# misc
+.DS_Store
+*.pem
+.npmrc
+.yarnrc
+.pnpmrc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Python Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Testing/Coverage
+coverage.xml
+htmlcov/
+
+# Crash logs
+crash-*.log
+
+# Terraform files
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# vscode-test
+.vscode-test
+
+# tern-port
+.tern-port
