@@ -1,0 +1,205 @@
+Protocol,Category,Subcategory,Function,TVL
+Jito,Staking,Liquid Staking,"Liquidity
+Yield","$2,990,029,423.03"
+Raydium,DEX,AMM,"Trading
+Yield","$1,940,466,339.79"
+Kamino Lend,Money Market,-,"Lending
+Yield","$1,880,469,203.14"
+Sanctum Validator LSTs,Staking,Liquid Staking,"Liquidity
+Yield","$1,266,610,974.66"
+Marinade Liquid Staking,Staking,Liquid Staking,"Liquidity
+Yield","$1,144,114,847.96"
+Jupiter Perpetual Exchange,Derivatives,PerpsDEX,"Trading
+Yield","$1,097,793,635.57"
+Jupiter Staked SOL,Staking,Liquid Staking,"Liquidity
+Yield","$838,158,435.47"
+Drift Trade,Derivatives,PerpsDEX,"Trading
+Yield","$591,534,733.98"
+Marinade Native Staked SOL,Staking,Native Staking,Yield,"$565,704,166.65"
+Binance Liquid Staked SOL,Staking,Liquid Staking,"Liquidity
+Yield","$552,333,065.16"
+marginfi Lending,Money Market,-,"Lending
+Yield","$435,295,794.37"
+BlazeStake,Staking,Liquid Staking,"Liquidity
+Yield","$325,348,900.55"
+Solayer SOL,Staking,Restaking,Yield,"$260,638,704.81"
+Solayer USD,Other,Synthetics,"Liquidity
+Yield","$260,638,704.81"
+Sanctum Infinity,DEX,CLAMM,"Trading
+Yield","$216,352,127.96"
+Meteora DLMM,DEX,DLMM,"Trading
+Yield","$170,130,013.47"
+Kamino Liquidity,Yield,Aggregator,Yield,"$166,978,350.77"
+Meteora vaults,Yield,Vaults,Yield,"$138,958,265.86"
+Bybit Staked SOL,Staking,Liquid Staking,"Liquidity
+Yield","$124,364,401.19"
+Meteora pools,DEX,AMM,"Trading
+Yield","$92,585,509.25"
+Sanctum Reserve,DEX,AMM,"Trading
+Yield","$86,056,895.91"
+Helius Staked SOL,Staking,Restaking,Yield,"$79,974,089.40"
+JPool,Staking,Liquid Staking,"Liquidity
+Yield","$79,555,952.02"
+marginfi LST,Staking,Liquid Staking,"Liquidity
+Yield","$79,084,195.78"
+The Vault,Staking,Liquid Staking,"Liquidity
+Yield","$70,306,280.05"
+Drift Staked SOL,Staking,Liquid Staking,"Liquidity
+Yield","$66,391,708.60"
+Edgevana,Staking,Liquid Staking,"Liquidity
+Yield","$59,059,249.87"
+Bonk Staked SOL,Staking,Liquid Staking,"Liquidity
+Yield","$42,767,509.42"
+Backpack,DEX,CLOB,Trading,"$39,468,945.82"
+Bitget SOL,Staking,Liquid Staking,"Liquidity
+Yield","$39,068,507.66"
+Lulo,Money Market,-,"Lending
+Yield","$38,996,374.49"
+SPL Governance,Other,Governance,-,"$33,293,199.92"
+Saber,DEX,AMM,"Trading
+Yield","$25,297,004.13"
+Parcl V3,Derivatives,PerpsDEX,"Trading
+Yield","$25,228,315.32"
+Quarry,Yield,Vaults,Yield,"$22,527,531.49"
+Serum,DEX,CLOB,"Trading
+Yield","$21,967,260.85"
+SolanaHub Staked SOL,Staking,Liquid Staking,"Liquidity
+Yield","$17,297,662.36"
+FlashTrade,DEX,CLOB,"Trading
+Yield","$16,199,750.36"
+Parrot Protocol,Other,Synthetics,Yield,"$14,023,786.85"
+Phoenix,DEX,CLOB,"Trading
+Yield","$13,906,603.69"
+Francium,Money Market,-,"Lending
+Yield","$13,401,626.86"
+Adrena Protocol,Derivatives,PerpsDEX,"Trading
+Yield","$12,779,319.50"
+Mango Markets V4 Perps,Derivatives,PerpsDEX,"Trading
+Yield","$12,442,477.03"
+Tulip Protocol,Yield,Vaults,Yield,"$12,242,473.72"
+FluxBeam,DEX,AMM,"Trading
+Yield","$11,546,174.42"
+Fragmetric,Staking,Restaking,Yield,"$10,098,214.60"
+Kyros,Other,Compliance,Yield,"$9,995,814.62"
+Zeta,Derivatives,Options DEX,"Trading
+Yield","$9,614,154.86"
+NX Finance,Yield,Leverage Farm,Yield,"$9,501,105.67"
+Hubble,DEX,CLOB,"Trading
+Yield","$7,133,003.10"
+Synatra,Yield,Vaults,Yield,"$7,116,365.72"
+Sunny,Yield,Aggregator,Yield,"$6,445,950.57"
+HawkFi,Yield,Vaults,"Liquidity
+Yield","$5,960,368.57"
+Symmetry,Yield,Vaults,Yield,"$5,671,317.43"
+Solbank Finance,Money Market,-,"Lending
+Yield","$5,510,294.66"
+OpenDelta Perpetual Bond,Other,Synthetics,Yield,"$5,036,715.26"
+Dual Finance,Yield,Vaults,Yield,"$4,639,680.62"
+Katana,Derivatives,Options DEX,"Trading
+Yield","$3,705,115.81"
+OpenBook,DEX,CLOB,"Trading
+Yield","$3,288,708.77"
+Larix,Money Market,-,"Lending
+Yield","$3,254,515.43"
+Rain.fi,Money Market,-,"Lending
+Yield","$3,234,455.68"
+Carrot,Yield,Vaults,Yield,"$3,053,699.85"
+Port Finance,Money Market,-,"Lending
+Yield","$2,776,388.69"
+1INTRO,DEX,AMM,"Trading
+Yield","$2,765,182.93"
+stabble,DEX,AMM,"Trading
+Yield","$2,671,520.04"
+Chest Finance,Yield,Vaults,Yield,"$2,496,778.27"
+International Stable Currency,Other,Synthetics,Yield,"$2,032,004.05"
+RateX,Derivatives,PerpsDEX,"Trading
+Yield","$1,939,873.04"
+Bonkswap,DEX,AMM,Trading,"$1,875,987.01"
+Apricot Finance,Money Market,-,"Lending
+Yield","$1,503,048.05"
+Atrix,DEX,AMM,"Trading
+Yield","$1,372,292.10"
+Amulet Liquidity Staking,Staking,Liquid Staking,"Liquidity
+Yield","$1,156,562.88"
+PsyOptions,Derivatives,Options DEX,"Trading
+Yield","$989,217.48"
+Aldrin,DEX,AMM,"Trading
+Yield","$843,448.76"
+Banx,Money Market,-,"Lending
+Yield","$823,336.57"
+Saros,DEX,AMM,"Trading
+Yield","$790,990.51"
+Armada,Other,Governance,-,"$736,772.90"
+UXD,Other,Synthetics,Yield,"$701,825.36"
+Sharky,Money Market,-,"Lending
+Yield","$580,297.00"
+Divvy.Bet,Other,Governance,-,"$563,352.73"
+Adrastea,Yield,Leverage Farm,Yield,"$488,676.12"
+Jet Margin,Money Market,-,"Lending
+Yield","$475,557.40"
+1,Derivatives,PerpsDEX,"Trading
+Yield","$364,822.85"
+Manifest Trade,DEX,CLOB,Trading,"$330,313.52"
+GuacSwap,DEX,AMM,"Trading
+Yield","$302,028.51"
+Jet V1,Money Market,-,"Lending
+Yield","$293,047.95"
+Citrus,Money Market,-,"Lending
+Yield","$279,804.28"
+Cropper CLMM,DEX,CLAMM,"Trading
+Yield","$278,876.22"
+Serum Swap,DEX,AMM,"Trading
+Yield","$252,375.08"
+Crema Finance,DEX,CLAMM,"Trading
+Yield","$249,041.84"
+Lifinity V1,DEX,AMM,"Trading
+Yield","$211,088.34"
+Cropper AMM,DEX,AMM,"Trading
+Yield","$195,486.01"
+Credix,Money Market,-,"Lending
+Yield","$109,643.15"
+Swim Protocol,DEX,AMM,"Trading
+Yield","$102,762.18"
+Hedgehog Markets,Other,Governance,-,"$89,165.50"
+hub3,Other,Governance,-,"$86,079.38"
+Hedge,Other,Synthetics,Yield,"$68,548.90"
+aSOL,Staking,Liquid Staking,"Liquidity
+Yield","$67,887.47"
+Arrow,Staking,Liquid Staking,"Liquidity
+Yield","$67,202.39"
+Adrastea LRT,Staking,Restaking,Yield,"$64,746.72"
+Synthetify,Other,Synthetics,Yield,"$63,778.94"
+Cykura,DEX,CLAMM,"Trading
+Yield","$53,564.23"
+GoblinGold,Yield,Vaults,Yield,"$43,446.03"
+Oxygen,Money Market,-,"Lending
+Yield","$36,892.49"
+Penguin,DEX,AMM,"Trading
+Yield","$33,829.44"
+Eversol,Staking,Native Staking,Yield,"$30,977.11"
+NxFi Protocol,Yield,Vaults,Yield,"$30,273.51"
+Scallop Pool,Money Market,-,"Lending
+Yield","$24,516.93"
+FRAKT,Money Market,-,"Lending
+Yield","$24,030.89"
+Sentre,DEX,AMM,"Trading
+Yield","$10,168.72"
+GooseFX,DEX,AMM,"Trading
+Yield","$8,922.86"
+Parcl V2,Derivatives,PerpsDEX,"Trading
+Yield","$5,354.51"
+Clone Protocol,Other,Synthetics,Yield,"$4,050.43"
+Dradex,DEX,AMM,"Trading
+Yield","$2,983.13"
+Follows,Other,Governance,-,"$2,586.15"
+Goat Swap,DEX,AMM,"Trading
+Yield","$2,256.73"
+Jet Fixed Term,Money Market,-,"Lending
+Yield",$536.78
+Beluga Protocol,DEX,AMM,"Trading
+Yield",$302.34
+DropCopy,Other,Governance,-,$16.89
+Nirvana,Other,Synthetics,Yield,$2.51
+Soda Protocol,Money Market,-,"Lending
+Yield",$0.26
+Cashio,Other,Synthetics,Yield,$0.07

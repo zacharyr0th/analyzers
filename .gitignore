@@ -159,3 +159,18 @@ terraform.rc
 
 # tern-port
 .tern-port
+
+# Virtual Environment
+venv/
+
+# Generated files
+*.png
+*.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/
+.idea/
