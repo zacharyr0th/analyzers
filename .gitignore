@@ -174,3 +174,13 @@ __pycache__/
 # IDE specific files
 .vscode/
 .idea/
+
+# Analysis data
+/public/data/**/*.json
+/public/data/**/*.md
+/public/data/analysis-*/
+/public/data/token-list.json
+
+# Generated files
+*.generated.*
+/output/
